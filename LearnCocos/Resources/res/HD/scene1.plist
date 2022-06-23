@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>Cartoon_Forest_BG_02.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{960,540}</string>
+                <key>spriteSourceSize</key>
+                <string>{960,540}</string>
+                <key>textureRect</key>
+                <string>{{0,0},{960,540}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>960 540 0 540 0 0 960 0</string>
+                <key>verticesUV</key>
+                <string>960 540 0 540 0 0 960 0</string>
+            </dict>
+            <key>sprite-sheet-test/tile000.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{5,3.5}</string>
+                <key>spriteSize</key>
+                <string>{65,64}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,75}</string>
+                <key>textureRect</key>
+                <string>{{960,0},{65,64}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>43 66 12 66 10 15 75 2</string>
+                <key>verticesUV</key>
+                <string>993 64 962 64 960 13 1025 0</string>
+            </dict>
+            <key>sprite-sheet-test/tile001.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-2.5,-2}</string>
+                <key>spriteSize</key>
+                <string>{50,57}</string>
+                <key>spriteSourceSize</key>
+                <string>{55,75}</string>
+                <key>textureRect</key>
+                <string>{{960,119},{50,57}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 2 3 0 1 2</string>
+                <key>vertices</key>
+                <string>50 61 0 68 0 11 50 11</string>
+                <key>verticesUV</key>
+                <string>1010 169 960 176 960 119 1010 119</string>
+            </dict>
+            <key>sprite-sheet-test/tile002.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{-5,0}</string>
+                <key>spriteSize</key>
+                <string>{53,55}</string>
+                <key>spriteSourceSize</key>
+                <string>{75,55}</string>
+                <key>textureRect</key>
+                <string>{{960,64},{53,55}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 4 5 1 4 0 1 2 3 1 3 4</string>
+                <key>vertices</key>
+                <string>59 45 45 55 6 55 6 37 23 0 54 0</string>
+                <key>verticesUV</key>
+                <string>1013 109 999 119 960 119 960 101 977 64 1008 64</string>
+            </dict>
+            <key>sprite-sheet-test/tile003.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{3,-1}</string>
+                <key>spriteSize</key>
+                <string>{45,53}</string>
+                <key>spriteSourceSize</key>
+                <string>{55,55}</string>
+                <key>textureRect</key>
+                <string>{{960,176},{45,53}}</string>
+                <key>textureRotated</key>
+                <false/>
+                <key>triangles</key>
+                <string>0 3 4 1 2 3 0 1 3</string>
+                <key>vertices</key>
+                <string>53 33 31 55 8 55 8 2 45 2</string>
+                <key>verticesUV</key>
+                <string>1005 207 983 229 960 229 960 176 997 176</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>scene1.png</string>
+            <key>size</key>
+            <string>{1025,540}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:27cb256cc9f0a3b386686c003f164657:29ce8c7724553cb82bb73117c5decb63:eb8bd80d73bedcb3a7226f25feb37ceb$</string>
+            <key>textureFileName</key>
+            <string>scene1.png</string>
+        </dict>
+    </dict>
+</plist>
